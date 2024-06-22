@@ -2,7 +2,7 @@
 
 F: Why do you feel that a dedicated repository is necessary containing these FAQ.
 <br>
-A: I hope it gives me more stars than the repositories containing my code.
+A: I hope it earns me more stars than the repositories containing my code.
 
 F: Are these FAQ truly "Frequently Asked Questions"?
 <br>
@@ -22,7 +22,7 @@ A: I did invent the wheel!
 
 F: Why do you love software development so much?
 <br>
-A: I don't really. I love giving commands; but only computers would obey.
+A: I don't really. I love giving commands; but only machines would obey.
 
 F: What do you think could be the best programming language?
 <br>
@@ -34,24 +34,30 @@ A: I can't decide between Latin and SQL.
 
 F: Isn't Latin considered a dead language?
 <br>
-A: At school I wished it was. But it actually seems to be more alive than SQL.
+A: At school I wished it was. But it seems more alive than SQL.
 
 F: Would you consider mathematics a language of nature?
 <br>
-A: I consider Mathematics a force of nature.
+A: I consider Mathematics a misunderstood force of nature.
 
 F: You seem to love developing your own language. Are you good at languages?
 <br>
 A: I never learned any language well. So, I had to invent my own.
 
-F: Why Xoila? Forgive me, but that name sounds a tiny bit unusual.
+F: Why Xoila? Forgive me, but does that name not sound a tiny bit unusual?
 <br>
 A: Xoila was the shortest name not yet claimed as trademark or company name. It therefore had little competition in Google's ranking.
 
 F: Good thinking, but should a programming language name not also have some descriptive power with respect to its purpose?
 <br>
-A: Xoila is an asian dish made of chicken, chilly, garlic and ginger. That describes its purpose perfectly! (At least much better than the third letter in the alphabet would.)
+A: Xoila is an asian dish made of chicken, chilly, garlic and ginger. That describes its purpose perfectly! ( At least much better than the third letter in the alphabet does. )
 
 F: It seems you dislike using third party code. How come?
 <br>
-A: I love third party code; it only gives me severe allergic ractions.
+A: I love third party code; it only gives me severe allergic reactions.
+
+F: Would you agree that the essence of functional programming is doing recursion?
+<br>
+A: No. The essence is knowing when to stop a recursion.
+
+F: 
