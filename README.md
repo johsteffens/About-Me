@@ -68,7 +68,7 @@ Q: What is the most important operator in a language?
 <br>
 A: The semicolon!
 
-Q: But that is a statement indicator. Python even dropped it altogether. How can that be?
+Q: But that is used as statement indicator. Python even dropped it altogether. How can that be?
 <br>
 A: Sure, my point exactly!
 
