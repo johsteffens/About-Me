@@ -36,7 +36,7 @@ Q: Isn't Latin considered a dead language?
 <br>
 A: At school I wished it was. But it seems more alive than SQL.
 
-Q: Would you consider mathematics a language of nature?
+Q: Should one understand mathematics as language of nature?
 <br>
 A: I consider Mathematics a misunderstood force of nature.
 
