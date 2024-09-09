@@ -1,75 +1,327 @@
 # About-Me
 
-Q: Why do you feel that a dedicated repository is necessary containing these FAQ.
-<br>
-A: I hope it earns me more stars than the repositories containing my code.
+This QA-style README reveals a bit about myself in a playful self-interview.
+I hope it elicits a smile from my dear reader(s). Some parts are intentionally
+self-ironic (I know my faults), others are a bit more serious and reflect things
+I believe or feel strongly about. Nevertheless I wish to conclude on a positive, 
+optimistic note.
 
-Q: Are these FAQ truly "Frequently Asked Questions"?
-<br>
-A: FAQ means "Frequently Anticipated Quenstions". I don't recall anyone ever asking any.
+Enjoy!
 
-Q: How does a physicist end up doing computer programming?
-<br>
-A: Physicists understand that everything is just physics. Your question is pointless.
+## Motivation
 
-Q: What, in your opinion, is the most misunderstood idom in software development?
-<br>
-A: "Not invented by me!"
+**Q:** Why do you feel these QA need a dedicated repository?.<br>
+**A:** I hope it earns more stars than repositories containing my code.
 
-Q: Looking through your code, it seems you love reinventing the wheel. What is your take on that?
-<br>
-A: I did invent the wheel!
+**Q:** How does a physicist end up doing computer programming?<br>
+**A:** *Everything is physics.* Your question is pointless.
 
-Q: Why do you love software development so much?
-<br>
-A: I don't really. I love giving commands; but only machines would obey.
+**Q:** Why do you love software development so much? <br>
+**A:** I love to control. But only machines, cats and squirrels obey without criticism.
 
-Q: What do you think could be the best programming language?
-<br>
-A: A language my wife and kids would interpret correctly.
+## Programming & Languages
 
-Q: What is the worst Language you were ever compelled to learn?
-<br>
-A: I can't decide between Latin and SQL.
+**Q:** What is the worst language you were ever compelled to learn?<br>
+**A:** I can't decide between Latin and SQL. (I accomplished neither)
 
-Q: Isn't Latin considered a dead language?
-<br>
-A: At school I wished it was. But it seems more alive than SQL.
+**Q:** Do you understand Mathematics as a language of nature?<br>
+**A:** I see Mathematics as a misunderstood force of nature.
 
-Q: Should one understand mathematics as language of nature?
-<br>
-A: I consider Mathematics a misunderstood force of nature.
+**Q:** Would you agree that the essence of [functional programming](https://en.wikipedia.org/wiki/Functional_programming)
+is doing [recursion](https://en.wikipedia.org/wiki/Functional_programming#Recursion)?<br>
+**A:** No. The essence is stopping recursion.
 
-Q: You seem to love developing your own language. Are you good at languages?
-<br>
-A: I never learned any language well. So, I had to invent my own.
+**Q:** Does the [Ackermann Function](https://en.wikipedia.org/wiki/Ackermann_function) fascinate you?<br>
+**A:** I'll be fascinated seeing A(4,3) finish.
 
-Q: Why Xoila? Forgive me, but does that name not sound a tiny bit unusual?
-<br>
-A: Xoila was the shortest name not yet claimed as trademark or company name. It therefore had little competition in Google's ranking.
+**Q:** What is the most important (operator-) symbol in a functional language?<br>
+**A:** The semicolon!
 
-Q: Good thinking, but should a programming language name not also have some descriptive power with respect to its purpose?
-<br>
-A: Xoila is an asian dish made of chicken, chilly, garlic and ginger. That describes its purpose perfectly! ( At least much better than the third letter in the alphabet. )
+**Q:** But that is used to complete a statement. Python even dropped it altogether. How can that be?<br>
+**A:** My point exactly.
 
-Q: It seems you dislike using third party code. How come?
-<br>
-A: I love third party code, but it gives me severe allergic reactions.
+**Q:** You seem to love developing your own language. Are you good at languages?<br>
+**A:** I've never learned any well. So, I keep inventing my own.
 
-Q: Would you agree that the essence of functional programming is doing recursion?
-<br>
-A: No. The essence is stopping recursion.
+**Q:** Why [Xoila](https://github.com/johsteffens/beth?tab=readme-ov-file#xoila)? For a language, that name sounds weird.<br>
+**A:** Xoila was the shortest name not claimed as trademark or company name. So, I've got very little competition in Google's ranking.
 
-Q: Does the Ackermann Function fascinate you?
-<br>
-A: I'll be fascinated seeing A(4,3) finish.
+**Q:** Should the name not better reflect the use case?<br>
+**A:** Xoila (pronounced 'Choila') is a tasty Nepalese dish made of meat with
+chilly, garlic and ginger. That describes it perfectly.
 
-Q: What is the most important operator in a language?
-<br>
-A: The semicolon!
+**Q:** Interesting. But don't you feel other languages carry more suitable names? <br>
+**A:** A popular one is named after a predator that squeezes its prey to death
+then swallows it whole. I'm undecided which use case is implied here. I like
+that language but it doesn't give me nightmares (yet).
 
-Q: But that is used as statement indicator. Python even dropped it altogether. How can that be?
-<br>
-A: Sure, my point exactly!
+**Q:** Perhaps the name need not describe the purpose after all?<br>
+**A:** Perhaps.
+
+## Beth
+
+**Q:** Why did you choose the name ***[Beth](https://github.com/johsteffens/beth)***? <br>
+**A:** ***Aleph*** was taken. 
+
+**Q:** Other reasons? <br>
+**A:** It is an abbreviation for the second name of my beloved daughter.
+
+**Q:** Any more? <br>
+**A:** Beth also means ***second***, which I take as personal stance. I don't
+like to place myself in the foreground.
+
+**Q:** Oh, it is a posture of humility then; an admission that you are not the
+best developer in the universe? <br>
+**A:** Correct!  *<sub> ... maybe the second best ... </sub>*
+
+**Q:** It seems you dislike third party code. How come?<br>
+**A:** I love third party code, except (by definition) one cannot own it. One
+must acquire a license; I'm allergic to that.
+
+**Q:** But you issue a license for your own code?<br>
+**A:** I'm immune to licenses issued by me.
+
+**Q:** Why did you select [Apache 2.0](https://github.com/johsteffens/beth/blob/master/LICENSE)?<br>
+**A:** It reminds me of stories written by Karl May, which I loved as a kid.
+
+## About Innovation
+
+**Q:** What, in your opinion, is the most misunderstood idiom in software development?<br>
+**A:** ***Not invented by me!***
+
+**Q:** Looking through your code, it seems you love reinventing the wheel. What is your take on that?<br>
+**A:** I invented the wheel.
+
+**Q:** Well, lets agree you have an inventive spirit. Can you elaborate?<br>
+**A:** I love solving problems or improving existing solutions. I also enjoy
+tackling already solved problems from a different viewpoint and eventually
+discover different (occasionally better) methods. I generally do not expect to
+be the first arriving at any particular solution. Though that happens occasionally, too.
+
+**Q:** Where does that inclination come from?<br>
+**A:** It could be considered a learning disorder.
+
+**Q:** A disorder? Please elaborate.<br>
+I've difficulty learning and understanding simply by memorizing things. Instead
+I learn by reinventing/rediscovering and eventually comparing my result to the
+generally accepted one. That process can be quite slow. When my result agrees,
+it feels like winning the lottery. When it disagrees, it feels like one
+of two extremes.
+
+**Q:** Which two extremes?<br>
+**A:** 1. I am mistaken. 2. Everyone else is mistaken and I might be due for the next Nobel Price.
+
+## About Software Patents
+
+**Q:** What is your position on software patents? <br>
+**A:** It carries signs of a bad religion.
+
+**Q:** That is an unexpected association. Would you explain? <br>
+**A:** Software patents obfuscate with pointless jargon, confusing everyone and
+keeping the innocent in constant fear to infringe something, which they'd rather
+consider trivial, obvious and thus not claimable by individuals or companies.
+
+**Q:** Oh dear, I sense irony slipping into ranting. Did I touch a soar nerve? <br>
+**A:** Kind of - My apology.
+
+**Q:** Should innovation not be protected? <br>
+**A:** It should. There are legitimate inventors as well as benevolent investors both are
+entitled to benefit from their effort/investment. But there are also thieves in
+the world. The two former need protection from the latter. That is desirable as well as justified.
+And it was even the original spirit for introducing patents in general.
+
+**Q:** What then went wrong? <br>
+**A:** Some misuse cannot be sufficiently prevented: Such as patenting the obvious,
+unduly broad claims and overlooking prior art (intentionally or unintentionally).
+I'd say we don't even have a good understanding what 'obvious' truly means or
+should mean.
+
+**Q:** How then would you personally define 'obvious'? <br>
+**A:** A specific solution one inevitably arrives at when one put his/her mind
+to solving a particular problem. Regardless how difficult that solution might be
+to find.
+
+**Q:** I can see that radical definition might render some patents invalid. What
+is your better solution to patenting? <br>
+**A:** I have none yet. At best I have a preliminary remedy but it might not
+work for everyone.
+
+**Q:** What is your remedy? <br>
+**A:** Publish everything you develop under your name but don't patent it. 
+If you want to do extra good, issue a permissive license with it.
+By publishing your work, you declare prior art and can also defend it. No one
+else should be able to patent your invention. At least not in jurisdictions that
+deserve my respect. At the same time you leave those room to breathe who value
+your approach and want to adapt, integrate or improve it.
+
+**Q:** Why might that not work out for everyone? <br>
+**A:** Hard work, from which others benefit, deserves remuneration. Many inventors
+depend on it and need guarantees. Publishing without patenting is rather a leap
+of faith. You do something good and hope that you'll be rewarded somehow
+but also accept that it might never happen. At least not in the way you expect,
+deserve or need. Many can not afford living up to this perspective, even if they
+like to.
+
+**Q:** Some countries allow software patents. Should they better abolish it? <br>
+**A:** No. There are legitimate claims depending on the existing systems remaining
+in place. It needs gradual change.
+
+**Q:** Some countries withstand industrial pressure to allow software patents.
+Should they relent? <br>
+**A:** Emphatically no! Pressure is healthy when it is channeled into efforts of
+developing a better solution for everyone. I maintain hope that we arrive there,
+eventually.
+
+**Q:** From where do you think might a better solution arise. <br>
+**A:** The free software movement has brought up many excellent ideas.
+The missing step is finding a grand unified theory combining freedom and protection.
+
+**Q:** So, you associate the effort with the quest for the
+[GUT](https://en.wikipedia.org/wiki/Grand_Unified_Theory) in physics? <br>
+**A:** Yes. Btw.: *Everything is physics.*
+
+**Q:** Is it also equally difficult? <br>
+**A:** I'm optimistic for both.
+
+## About AI
+
+**Q:** What is a [Holor Virtual Machine](https://github.com/johsteffens/beth/blob/master/lib/bhvm/README.md)? <br>
+**A:** A new virtual platform to run holor (e.g. scalar, vector, matrix, ...)  operations.
+Especially useful for artificial neural networks.
+
+**Q:** What means [bhpt](https://github.com/johsteffens/beth/tree/master/lib/bhpt)? <br>
+**A:** An incomplete framework to design and train neural networks.
+
+**Q:** You started developing these exciting tools but seem to have halted midway. What happened? <br>
+**A:** The AI-Hype happened.
+
+**Q:** OK, some experts agree, that AI is indeed rather a hype. But why should that inhibit you? <br>
+**A:** Expectations are inflated. I couldn't possible meet them.
+
+**Q:** Since when do you care what others expect? And why should any hype affect your motivation? <br>
+**A:** I thought I'd be solely self-motivated and never care what others think. In truth, I probably care a lot. 
+I'm motivated building something, which others might find helpful. My work on neural networks might simply appear boring at the moment.
+
+**Q:** In which way do you think common expectation around AI is inflated? <br>
+**A:** Among others, AI is perceived to generate new uncorrelated information.
+
+**Q:** I thought people mostly fear that AI is skidding into some form of runaway intelligence turning into an AGI with unpredictable, possibly harmful, outcome.<br>
+**A:** This is basically the same thing. And it is not happening.
+
+**Q:** How?<br>
+**A:** Let first strip science fiction, romanticism and trivialities from AI.
+What remains is professionally known as 'Machine Learning'. I consider even that
+a misnomer. But for lack of a better term, I'll stick with it.
+
+**Q:** OK, we actually talk about "Machine Learning". Proceed.<br>
+**A:** Without getting too technical, Machine Learning is the symbiosis of algorithm, 
+data and computational power, in order to discover structure in data and using
+it for decisions. The actual structure need never be revealed
+to or even understood by a human. It is sufficient that an algorithm can
+use it to perform decisions.
+
+**Q:** Sounds like a reasonable top level definition. What next?<br>
+**A:** Even though that structure appears hidden and somewhat intangible to
+humans, it is there and it is vital making decisions.
+That structure is a form of filtered information originating from the training
+data. When it is used to make decisions, it can not create new structure. 
+It only applies structure obtained from the training data.
+Although that sounds restrictive, one can accomplish quite marvelous things
+with it. More importantly though, I've not seen anything, called AI, ever
+working outside these boundaries.
+
+**Q:** One objection: How about GAN? It seems to create new data out
+of nothing. That data looks like information no one has seen before.
+Is that not also new structure? <br>
+**A:** You seem to refer to the ability of art creation by Generative Adversarial Networks.
+It creates indeed new data but not new structure. It learned to model the space
+of potential art and to maximize distance to actual (human created) art. 
+That is the intrinsic structure used by the system. The rest is simply mapping
+a random vector into an arbitrary point that space of maximal distance.
+So, generating an artificial piece of art is simply mapping a random vector.
+No new structure is created here.
+
+**Q:** Well, putting it like that seems to strip some magic out of the GAN.
+But is it not still quite intriguing what these networks can do?<br>
+**A:** Yes, it is a brilliant concept. And in a very specific field able
+to produce quite impressive results. 
+Nevertheless, the GAN is a specialized machinery and no a pathway to general
+intelligence.
+
+**Q:** Another objection: A LLM can create code. So, code and
+data does not seem to have a distinct boundary. Since the LLM itself is code,
+could it not teach itself to better itself and thus become a runaway
+intelligence?<br>
+**A:** No, it can't. The LLM is very good in doing associations. LLMs can extract
+meaning of presented data and output associated data, that falls in a specific
+range of human-expectation. Hence, these machines exhibit a specific a human-like
+trait. However, any output is driven by structure, which already was part of the
+training data. Thus, it is unable to give you a solution to the Collaz Conjecture,
+the Rieman Hypothesis or the P versus NP problem unless unless a true intelligence
+has solved and published it beforehand. In the same way it can't better itself
+unless a true intelligence has already published a better LLM.
+
+**Q:** So, what is missing? <br>
+**A:** The ability to generate (meaningful) structure out of nothing. If that
+was possible, structure could be used in a self-replicating manner, 
+resulting in a exponential growth (or explosion). That could produce a runaway
+intelligence.
+
+**Q:** Might that not be possible? <br>
+**A:** Structure appears to be a tangible quantity as well as a conserved one,
+like physical energy is conserved. You can filter certain types of
+structure from data much like you can extract energy from natural resources. 
+You can probably convert structure (though we don't have a good definition what
+that exactly means), like you can convert energy. But you can't create it from
+nothing.
+
+**Q:** Physics again? <br>
+**A:** Did I mention that everything is ...
+
+**Q:** ... Physics? Yes, I vaguely recall you mentioning something of the kind.
+So, oh omniscient physicist, your point is that we need not fear for
+a malicious runaway artificial intelligence?
+**A:** Correct.
+
+**Q:** But how about applying caution and possible regulatory efforts in general
+with respect to AI? Should we let up there as well? <br>
+**A:** Machine learning, like any technology, can be abused by humans. Caution,
+just like we are cautious with any form of technology, is therefore a good thing.
+Where significant abuse is observed or highly probable, proper regulation is needed.
+If self-regulation is insufficient, legislation must step in.
+However, there is no basis for a prohibitive or excessive-regulatory stance simply
+out of vague fears about the unknown. Sometimes it seems to me that such fears
+are actively kindled for the purpose to influence legislation with respect to AI.
+
+
+Perpetual Generative Intelligence
+
+
+
+
+
+
+--------------------
+
+**Q:** Isn't AI also part of Biophysics? <br>
+**A:** The field of Neural Networks is part of neuroscience which is part of biophysics.
+The term AI is a bit warped these days. <br>
+
+**Q:** Does that mean artificial neural networks were originally developed by physicists? <br>
+**A:** By psychologists, mathematicians and computer scientists
+(Rosenblatt, Werbos, Rummelhard, Hinton, Williams, Malsburg, ...) who worked widely
+interdisciplinary. Of these, only professor v.d. Malsburg is physicist.
+
+**Q:** Why is it called *Biophysics* then? <br>
+Biophysics is rather an umbrella term for interdisciplinary science around many
+areas in biology accessible using physical principles.
+Did I mention that *everything is ...*
+
+**Q:** I vaguely recall you mentioning something of the kind. So, what is going
+to happen, oh omniscient physicist: Will we one day eventually all be consumed
+by intelligent machines? Will AI teach us how to become better humans?
+Or will AI believe it already is the better human?<br>
+**A:** If AI ever accomplishes anything useful, it will teach you manners.
+
 
 
