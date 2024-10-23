@@ -61,7 +61,7 @@ Enjoy!
 ## Beth
 
 **Q:** Why did you choose the name ***[Beth](https://github.com/johsteffens/beth)***? <br>
-**A: *Aleph* was taken. ** 
+**A: *Aleph* was taken.** 
 
 **Q:** Other reasons? <br>
 **A: It is an abbreviation for the second name of my beloved daughter.** 
@@ -70,7 +70,7 @@ Enjoy!
 **A: Beth also means *second*, which I take as personal stance. I don't like to push myself into the foreground.** 
 
 **Q:** Oh, it is a posture of humility then! An admission that you are not the best developer in the universe? <br>
-**A: Correct! **  *<sub> ... maybe the second best ... </sub>*
+**A: Correct!**  *<sub> ... maybe the second best ... </sub>*
 
 **Q:** It seems you dislike third party code. How come?<br>
 **A: I love third party code, except (by definition) one cannot own it. One must acquire a license; I'm allergic to that.**
@@ -86,7 +86,7 @@ Enjoy!
 ## About Innovation
 
 **Q:** What, in your opinion, is the most misunderstood idiom in software development?<br>
-**A: *Not invented by me!* **
+**A: *Not invented by me!***
 
 **Q:** Looking through your code, it seems you love reinventing the wheel. What is your take on that?<br>
 **A: I invented the wheel!**
@@ -98,13 +98,13 @@ Enjoy!
 **A: It could be considered a learning disorder.**
 
 **Q:** A disorder? Please elaborate.<br>
-**A: I've difficulty learning and understanding simply by memorizing things. Instead I learn by reinventing/rediscovering and eventually comparing my result to the generally accepted one. That process can be quite slow and tedious. When my result agrees, though, it floods my brain with dopamine. When it disagrees, I consider it to mean one of two extremes. **
+**A: I've difficulty learning and understanding simply by memorizing things. Instead I learn by reinventing/rediscovering and eventually comparing my result to the generally accepted one. That process can be quite slow and tedious. When my result agrees, though, it floods my brain with dopamine. When it disagrees, I consider it to mean one of two extremes.**
 
 **Q:** Which two extremes?<br>
-**A: **
+**A:**
 
-1. **I am mistaken. **
-2.  **Everyone else is mistaken!**   <sub> ... and I might be due for the next Nobel Price.</sub> 
+1. **I am mistaken.**
+2. **Everyone else is mistaken!**   <sub> ... and I might be due for the next Nobel Price.</sub> 
 
 
 
@@ -135,7 +135,7 @@ Enjoy!
 **A: I have none (yet). At best I have a preliminary remedy but it might not work for everyone.**
 
 **Q:** What is your remedy? <br>
-**A: Publish everything you develop under your name but don't patent it. If you want to do extra good, issue a permissive license with it. By publishing, you declare those parts, which represent an invention, as prior art and can also defend it gainst those who copy your ideas but claim them as their own. No one else should be able to patent your invention. At least not in jurisdictions that deserve my respect. At the same time you leave room to breathe to those, who value your approach and want to adapt, integrate or improve on it. **
+**A: Publish everything you develop under your name but don't patent it. If you want to do extra good, issue a permissive license with it. By publishing, you declare those parts, which represent an invention, as prior art and can also defend it gainst those who copy your ideas but claim them as their own. No one else should be able to patent your invention. At least not in jurisdictions that deserve my respect. At the same time you leave room to breathe to those, who value your approach and want to adapt, integrate or improve on it.**
 
 **Q:** Why might that not work out for everyone? <br>
 **A: Hard work, from which others benefit, deserves remuneration. Many inventors depend on it and need guarantees. Publishing without patenting is rather a leap of faith. You do something good and hope that you'll be rewarded somehow but also accept that it might never happen. At least not in the way you expect, deserve or need. Many cannot afford living up to this principle, even if they'd prefer to.**
@@ -150,41 +150,41 @@ Enjoy!
 **A: The free software movement has brought up many excellent ideas. The missing step is finding a grand unified theory combining freedom and protection.**
 
 **Q:** So, you associate the effort with the quest for the [GUT](https://en.wikipedia.org/wiki/Grand_Unified_Theory) in physics? <br>
-**A: Yes. Btw.: *Everything is physics!* **
+**A: Yes. Btw.: *Everything is physics!***
 
 **Q:** Is it also equally difficult? <br>
-**A: I'm optimistic for both. **
+**A: I'm optimistic for both.**
 
 
 
 ## About AI
 
 **Q:** What is a [Holor Virtual Machine](https://github.com/johsteffens/beth/blob/master/lib/bhvm/README.md)? <br>
-**A: A virtual platform I ivented. It can run holor (e.g. scalar, vector, matrix, ...)  operations. Especially useful for artificial neural networks. **
+**A: A virtual platform I ivented. It can run holor (e.g. scalar, vector, matrix, ...)  operations. Especially useful for artificial neural networks.**
 
 **Q:** What means [bhpt](https://github.com/johsteffens/beth/tree/master/lib/bhpt)? <br>
-**A: A (yet) ncomplete framework to design and train neural networks. **
+**A: A (yet) ncomplete framework to design and train neural networks.**
 
 **Q:** You started developing these exciting tools but seem to have halted midway. What happened? <br>
-**A: The AI-Hype happened. **
+**A: The AI-Hype happened.**
 
 **Q:** OK, some experts agree, that AI is indeed rather a hype. But why should that inhibit you? <br>
-**A: Expectations are inflated. I couldn't possible meet them. **
+**A: Expectations are inflated. I couldn't possible meet them.**
 
 **Q:** Since when do you care what others expect? And why should any hype affect your motivation? <br>
-**A: I thought I'd be solely self-motivated and never care what others think. In truth, I probably care a lot. I'm motivated building something, which others might find helpful. My work on neural networks might simply appear boring at the moment. **
+**A: I thought I'd be solely self-motivated and never care what others think. In truth, I probably care a lot. I'm motivated building something, which others might find helpful. My work on neural networks might simply appear boring at the moment.**
 
 **Q:** In which way do you think common expectation around AI is inflated? <br>
-**A: Among others: AI is perceived to generate new uncorrelated information. **
+**A: Among others: AI is perceived to generate new uncorrelated information.**
 
 **Q:** I thought people fear that AI is skidding into some form of runaway intelligence turning into an [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) with unpredictable, possibly harmful, outcome.<br>
-**A: That is basically the same thing! And it is not happening. **
+**A: That is basically the same thing! And it is not happening.**
 
 **Q:** Why is it the same and how is it not happening?<br>
 **A: Let first strip science fiction, romanticism and trivialities from AI: What remains is professionally known as 'Machine Learning'. I consider even that a misnomer. But for lack of a better term, I'll stick with it.**
 
 **Q:** OK, we actually talk about "Machine Learning". Proceed.<br>
-**A: Without getting too technical, Machine Learning is the symbiosis of algorithm, data and computational power, in order to discover structure in data and using it for decisions. The actual structure need never be revealed to or even understood by a human. It is sufficient that an algorithm can use it to perform decisions. **
+**A: Without getting too technical, Machine Learning is the symbiosis of algorithm, data and computational power, in order to discover structure in data and using it for decisions. The actual structure need never be revealed to or even understood by a human. It is sufficient that an algorithm can use it to perform decisions.**
 
 **Q:** Sounds like a reasonable top level definition. What next?<br>
 **A: Even though that structure appears hidden and somewhat intangible to humans, it is there and it is vital for making decisions. That structure is a form of filtered information originating from the training data. When it is used to make decisions, it can not create new structure. It only applies structure obtained from the training data. Although that sounds restrictive, one can accomplish quite marvelous things with it. But it is a limiting condition. I've not seen anything, called AI, ever working outside these boundaries.**
@@ -224,13 +224,13 @@ Enjoy!
 **A: By psychologists, mathematicians and computer scientists (Rosenblatt, Werbos, Rummelhard, Hinton, Williams, Malsburg, ...) who worked widely interdisciplinary. Of these, only professor v.d. Malsburg is a physicist.**
 
 **Q:** Why is it called *Biophysics* then? <br>
-**A: Biophysics is rather an umbrella term for interdisciplinary science around many areas in biology accessible using physical principles. Did I mention that *everything is ...* **
+**A: Biophysics is rather an umbrella term for interdisciplinary science around many areas in biology accessible using physical principles. Did I mention that *everything is ...***
 
 **Q:** I vaguely recall you mentioning something of the kind. So, what is going to happen, oh omniscient physicist: Will we one day eventually all be consumed by intelligent machines? Will AI teach us how to become better humans? Or will AI come to believe that it already is the better human?<br>
 **A: Are you mocking me? If AI ever accomplishes anything useful, it will teach you manners!**
 
 **Q:** It seems we are coming back to the one question: Can you formulate what part, piece or concept is missing?
-**A: From making the worst nightmares come true? I'd call the missing part a "Perpetual Generative Intelligence". A system that can learn from its own output. It seems impossible for all the reasons stated already. **
+**A: From making the worst nightmares come true? I'd call the missing part a "Perpetual Generative Intelligence". A system that can learn from its own output. It seems impossible for all the reasons stated already.**
 
 **Q:** But is the the human brain not just such a machine? Thus disproving your statement?
 **A: I wouldn't claim this for any individual. Humankind as a whole appears to exhibit traits of it to a limited degree. We don't see an intelligence explosion among humans because each new human has to learn everything from scratch (more or less).**
