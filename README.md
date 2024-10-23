@@ -108,28 +108,28 @@ Enjoy!
 
 
 
-## About Software Patents
+## About Software s
 
-**Q:** What is your position on software patents? <br>
+**Q:** What is your position on software s? <br>
 **A: It carries signs of a bad religion.**
 
 **Q:** That is an unexpected association. Would you explain? <br>
-**A: Software patents obfuscate with pointless jargon, confusing everyone and keeping the innocent in constant fear to infringe something, which they'd rather consider trivial, obvious and thus not claimable by individuals or companies.**
+**A: Software s obfuscate with pointless jargon, confusing everyone and keeping the innocent in constant fear to infringe something, which they'd rather consider trivial, obvious and thus not claimable by individuals or companies.**
 
 **Q:** Oh dear, I sense irony slipping into ranting. Did I touch a soar nerve? <br>
 **A: Well, kind of. Sorry.**
 
 **Q:** Should innovation not be protected? <br>
-**A: It should. There are legitimate inventors as well as benevolent investors both are entitled to benefit from their effort/investment. But there are also thieves in the world. The two former need protection from the latter. That is desirable as well as justified. And it was even the original spirit for introducing patents in general.**
+**A: It should. There are legitimate inventors as well as benevolent investors both are entitled to benefit from their effort/investment. But there are also thieves in the world. The two former need protection from the latter. That is desirable as well as justified. And it was even the original spirit for introducing s in general.**
 
 **Q:** What then went wrong? <br>
-**A: Some misuse cannot be sufficiently prevented: Such as patenting the 'obvious', unduly broad claims and ignoring prior art (intentionally or unintentionally). I'd say we don't even have a good understanding what 'obvious' truly means or should mean.**
+**A: Some misuse cannot be sufficiently prevented: Such as ing the 'obvious', unduly broad claims and ignoring prior art (intentionally or unintentionally). I'd say we don't even have a good understanding what 'obvious' truly means or should mean.**
 
 **Q:** How then would you personally define 'obvious'? <br>
 **A: A specific solution one inevitably arrives at when one put his/her mind to solving a particular problem. Regardless how difficult that solution might be to find.**
 
 **Q:** Does this not apply to all possible solutions? <br>
-**A: No. Many solutions contain some level of design which leaves room for developing alternatives. A good Patent should only claim the one original design. It should not be so broad that it potentially covers all possible future alternatives, which haven't been invented yet.**
+**A: No. Many solutions contain some level of design which leaves room for developing alternatives. A good patent should only claim the one original design. It should not be so broad that it potentially covers all possible future alternatives, which haven't been invented yet.**
 
 **Q:** I can see that your radical definition might render some of today's patents invalid. What is your better solution to patenting? <br>
 **A: I have none (yet). At best I have a preliminary remedy but it might not work for everyone.**
