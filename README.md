@@ -229,13 +229,13 @@ Enjoy!
 **Q:** I vaguely recall you mentioning something of the kind. So, what is going to happen, oh omniscient physicist: Will we one day eventually all be consumed by intelligent machines? Will AI teach us how to become better humans? Or will AI come to believe that it already is the better human?<br>
 **A: Are you mocking me? If AI ever accomplishes anything useful, it will teach you manners!**
 
-**Q:** It seems we are coming back to the one question: Can you formulate what part, piece or concept is missing?
+**Q:** It seems we are coming back to the one question: Can you formulate what part, piece or concept is missing? <br>
 **A: From making the worst nightmares come true? I'd call the missing part a "Perpetual Generative Intelligence". A system that can learn from its own output. It seems impossible for all the reasons stated already.**
 
-**Q:** But is the the human brain not just such a machine? Thus disproving your statement?
+**Q:** But is the the human brain not just such a machine? Thus disproving your statement? <br>
 **A: I wouldn't claim this for any individual. Humankind as a whole appears to exhibit traits of it to a limited degree. We don't see an intelligence explosion among humans because each new human has to learn everything from scratch (more or less).**
 
-**Q:** So we all can rest in peace?
+**Q:** So we all can rest in peace? <br>
 **A: Your dictum belongs at a funeral! I'd rather say: "We can relax a bit!". We have enough time to observe and soberly and objectively think it out. There is no need for fear or panic.**
 
 
