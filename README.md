@@ -195,7 +195,7 @@ Enjoy!
 **Q:** Well, putting it like that seems to strip some magic from of the GAN. But is it not still quite intriguing what these networks can do?<br>
 **A: Yes, it is a brilliant concept. And, in a very specific field, able to produce quite impressive results. Nevertheless, the GAN is a specialized machinery and no a pathway to general intelligence.**
 
-**Q:** Another objection: A LLM can create code. So, code and data does not seem to have a distinct boundary. Since the LLM itself is code, could it not teach itself to better itself and thus become a runaway intelligence?<br>
+**Q:** Another objection: A [LLM](https://en.wikipedia.org/wiki/Large_language_model) can create code. So, code and data does not seem to have a distinct boundary. Since the LLM itself is code, could it not teach itself to better itself and thus become a runaway intelligence?<br>
 **A: No, it can't! The LLM is very good in doing associations. LLMs can extract meaning of presented data and output associated data, which falls into a specific range of human-expectation. Hence, these machines exhibit human-like behavior. However, any output is driven by structure, which already was part of the training data. Thus, it is unable to give you a solution to - say - the Collaz Conjecture, the Rieman Hypothesis or the P versus NP problem unless unless a true intelligence has solved and published it beforehand. In the same way it can't better itself unless a true intelligence has already published a better LLM.**
 
 **Q:** So, what is missing? <br>
