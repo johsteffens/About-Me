@@ -236,7 +236,7 @@ Enjoy!
 **A: I wouldn't claim this for any individual. Humankind as a whole appears to exhibit traits of it to a limited degree. We don't see an intelligence explosion among humans because each new human has to learn everything from scratch (more or less).**
 
 **Q:** So we all can rest in peace? <br>
-**A: Your dictum belongs at a funeral! I'd rather say: "We can relax a bit!". We have enough time to observe and soberly and objectively think it out. There is no need for fear or panic.**
+**A: Your dictum belongs at a funeral! I'd rather say: "We can relax a bit!". We have enough time to soberly observe and objectively think it out. There is no need for fear or panic.**
 
 
 
