@@ -10,7 +10,7 @@ Enjoy!
 
 ## Motivation
 
-**Q:** Why do you feel these QA need a dedicated repository?.<br>
+**Q:** Why do you feel these QA need a dedicated repository?<br>
 **A: I hope it earns more stars than repositories containing my code.**
 
 **Q:** How does a physicist end up doing computer programming?<br>
