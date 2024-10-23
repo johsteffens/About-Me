@@ -123,7 +123,7 @@ Enjoy!
 **A: It should. There are legitimate inventors as well as benevolent investors both are entitled to benefit from their effort/investment. But there are also thieves in the world. The two former need protection from the latter. That is desirable as well as justified. And it was even the original spirit for introducing patents in general.**
 
 **Q:** What then went wrong? <br>
-**A: Some misuse cannot be sufficiently prevented: Such as ing the 'obvious', unduly broad claims and ignoring prior art (intentionally or unintentionally). I'd say we don't even have a good understanding what 'obvious' truly means or should mean.**
+**A: Some misuse cannot be sufficiently prevented: Such as patenting the 'obvious', unduly broad claims and ignoring prior art (intentionally or unintentionally). I'd say we don't even have a good understanding what 'obvious' truly means or should mean.**
 
 **Q:** How then would you personally define 'obvious'? <br>
 **A: A specific solution one inevitably arrives at when one put his/her mind to solving a particular problem. Regardless how difficult that solution might be to find.**
