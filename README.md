@@ -108,19 +108,19 @@ Enjoy!
 
 
 
-## About Software s
+## About Software Patents
 
-**Q:** What is your position on software s? <br>
+**Q:** What is your position on software patents? <br>
 **A: It carries signs of a bad religion.**
 
 **Q:** That is an unexpected association. Would you explain? <br>
-**A: Software s obfuscate with pointless jargon, confusing everyone and keeping the innocent in constant fear to infringe something, which they'd rather consider trivial, obvious and thus not claimable by individuals or companies.**
+**A: Software patents obfuscate with pointless jargon, confusing everyone and keeping the innocent in constant fear to infringe something, which they'd rather consider trivial, obvious and thus not claimable by individuals or companies.**
 
 **Q:** Oh dear, I sense irony slipping into ranting. Did I touch a soar nerve? <br>
 **A: Well, kind of. Sorry.**
 
 **Q:** Should innovation not be protected? <br>
-**A: It should. There are legitimate inventors as well as benevolent investors both are entitled to benefit from their effort/investment. But there are also thieves in the world. The two former need protection from the latter. That is desirable as well as justified. And it was even the original spirit for introducing s in general.**
+**A: It should. There are legitimate inventors as well as benevolent investors both are entitled to benefit from their effort/investment. But there are also thieves in the world. The two former need protection from the latter. That is desirable as well as justified. And it was even the original spirit for introducing patents in general.**
 
 **Q:** What then went wrong? <br>
 **A: Some misuse cannot be sufficiently prevented: Such as ing the 'obvious', unduly broad claims and ignoring prior art (intentionally or unintentionally). I'd say we don't even have a good understanding what 'obvious' truly means or should mean.**
