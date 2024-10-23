@@ -163,7 +163,7 @@ Enjoy!
 **A: A virtual platform I ivented. It can run holor (e.g. scalar, vector, matrix, ...)  operations. Especially useful for artificial neural networks.**
 
 **Q:** What means [bhpt](https://github.com/johsteffens/beth/tree/master/lib/bhpt)? <br>
-**A: A (yet) ncomplete framework to design and train neural networks.**
+**A: A (yet) incomplete framework to design and train neural networks.**
 
 **Q:** You started developing these exciting tools but seem to have halted midway. What happened? <br>
 **A: The AI-Hype happened.**
