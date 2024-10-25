@@ -114,7 +114,7 @@ Enjoy!
 **A: It carries signs of a bad religion.**
 
 **Q:** That is an unexpected association. Please explain? <br>
-**A: Software patents obfuscate with pointless jargon. It keeps the innocent in constant fear to infringe on things, which they themselves would rather consider trivial and obvious.**
+**A: Many software patents obfuscate with pointless jargon. It keeps the innocent in constant fear to infringe on things, which they themselves would rather consider trivial and obvious.**
 
 **Q:** Oh dear, I sense irony slipping into ranting. Did I touch a soar nerve? <br>
 **A: Well, kind of. Sorry.**
