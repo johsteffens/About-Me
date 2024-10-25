@@ -2,7 +2,7 @@
 
 This QA-style README reveals a bit about myself in a playful self-interview. I hope it elicits a smile from my dear reader(s). 
 
-Some parts are intentionally self-ironic (I know my faults), others are a bit more serious and reflect things I believe or feel strongly about. Nevertheless I wish to conclude on a positive note.
+Some parts are intentionally self-ironic (I know my faults), others are a bit more serious and reflect things I believe or feel strongly about. Nevertheless, I wish to conclude on a positive note.
 
 Enjoy!
 
@@ -51,7 +51,7 @@ Enjoy!
 **A: Xoila is a tasty Nepalese dish made of meat with chilly, garlic and ginger. That describes it perfectly!** 
 
 **Q:** Interesting. But don't you feel other languages carry more suitable names? <br>
-**A: Well, a [popular language](https://en.wikipedia.org/wiki/Python_(programming_language)) is named after a predator that squeezes its prey to death then swallows it whole. I'm undecided which use case is implied here. Don't get me wrong: I like that language but it doesn't give me nightmares ... (yet).** 
+**A: Well, a [popular language](https://en.wikipedia.org/wiki/Python_(programming_language)) is named after a predator that squeezes its prey to death, then swallows it whole. I'm undecided which use case is implied here. Don't get me wrong: I like that language but it doesn't give me nightmares ... (yet).** 
 
 **Q:** Perhaps the name need not describe the purpose after all?<br>
 **A: Perhaps.** 
@@ -92,15 +92,15 @@ Enjoy!
 **A: I invented the wheel!**
 
 **Q:** Well, lets agree that you have an inventive spirit. Can you elaborate?<br>
-**A: I love solving problems or improving existing solutions. I also enjoy tackling already solved problems from a different viewpoint and eventually discover different (occasionally better) methods. I generally do not expect to be the first arriving at any particular solution. Though that happens occasionally, too.**
+**A: I love solving problems or improving existing solutions. I also enjoy tackling already solved problems from a different viewpoint and eventually discover different (occasionally better) methods. I generally do not expect to be the first arriving at any particular solution. Though, that happens occasionally, too.**
 
 **Q:** Where does that inclination come from?<br>
 **A: It could be considered a learning disorder.**
 
 **Q:** A disorder? Please elaborate.<br>
-**A: I've difficulty learning and understanding simply by memorizing things. Instead I learn by reinventing/rediscovering and eventually comparing my result to the generally accepted one. That process can be quite slow and tedious. When my result agrees, though, it floods my brain with dopamine. When it disagrees, I consider it to mean one of two extremes.**
+**A: I've difficulty learning and understanding simply by memorizing things. Instead I learn by reinventing/rediscovering and eventually comparing my result to the generally accepted one. That process can be quite slow and tedious. When my result agrees, I get a dopamine rush. When it disagrees, one of two cases apply.**
 
-**Q:** Which two extremes?<br>
+**Q:** Which two cases?<br>
 **A:**
 
 1. **I am mistaken.**
@@ -113,7 +113,7 @@ Enjoy!
 **Q:** What is your position on software patents? <br>
 **A: It carries signs of a bad religion.**
 
-**Q:** That is an unexpected association. Would you explain? <br>
+**Q:** That is an unexpected association. Please explain? <br>
 **A: Software patents obfuscate with pointless jargon, confusing everyone and keeping the innocent in constant fear to infringe something, which they'd rather consider trivial, obvious and thus not claimable by individuals or companies.**
 
 **Q:** Oh dear, I sense irony slipping into ranting. Did I touch a soar nerve? <br>
@@ -135,16 +135,16 @@ Enjoy!
 **A: I have none (yet). At best I have a preliminary remedy but it might not work for everyone.**
 
 **Q:** What is your remedy? <br>
-**A: Publish everything you develop under your name but don't patent it. If you want to do extra good, issue a permissive license with it. By publishing, you declare those parts, which represent an invention, as prior art and can also defend it gainst those who copy your ideas but claim them as their own. No one else should be able to patent your invention. At least not in jurisdictions that deserve my respect. At the same time you leave room to breathe to those, who value your approach and want to adapt, integrate or improve on it.**
+**A: Publish everything you develop under your name; but don't patent it. If you want to do extra good, issue a permissive license with it. By publishing, you turn your invention into prior art. You have a defense gainst those, who claim your idears afterwards as their own. No one should be able to patent your invention without your permission. (At least not in jurisdictions that deserve my respect.) At the same time you leave room to breathe to those, who value your approach and want to adapt, integrate or improve on it.**
 
 **Q:** Why might that not work out for everyone? <br>
-**A: Hard work, from which others benefit, deserves remuneration. Many inventors depend on it and need guarantees. Publishing without patenting is rather a leap of faith. You do something good and hope that you'll be rewarded somehow but also accept that it might never happen. At least not in the way you expect, deserve or need. Many cannot afford living up to this principle, even if they'd prefer to.**
+**A: Hard work deserves remuneration. Many inventors need guarantees that they can turn teir efforts into profit. Publishing without patenting is rather a leap of faith. You do something good and hope that you'll be rewarded somehow but also accept that it might never happen. At least not in the way you expect, deserve or need. Many cannot afford living up to this principle, although they might agree that it is a valiant one.**
 
 **Q:** Some countries allow software patents. Should they better abolish it? <br>
 **A: No. There are legitimate claims depending on the existing systems remaining in place. The system needs a change, but it must be a gradual one.**
 
 **Q:** Some countries withstand industrial pressure to allow software patents. Should they relent? <br>
-**A: Emphatically no! Pressure is healthy when it is channeled into efforts of developing a better solution for everyone. I maintain hope that we arrive there, eventually.**
+**A: Emphatically no! Pressure is healthy when it is channeled into efforts for better solutions. I maintain hope that arrive at a good one, eventually.**
 
 **Q:** From where do you think might a better solution arise. <br>
 **A: The free software movement has brought up many excellent ideas. The missing step is finding a grand unified theory combining freedom and protection.**
@@ -168,7 +168,7 @@ Enjoy!
 **Q:** You started developing these exciting tools but seem to have halted midway. What happened? <br>
 **A: The AI-Hype happened.**
 
-**Q:** OK, some experts agree, that AI is indeed rather a hype. But why should that inhibit you? <br>
+**Q:** OK, some experts agree, that today's talk around AI is indeed rather a hype. But why should that inhibit you? <br>
 **A: Expectations are inflated. I couldn't possible meet them.**
 
 **Q:** Since when do you care what others expect? And why should any hype affect your motivation? <br>
@@ -184,16 +184,16 @@ Enjoy!
 **A: Let first strip science fiction, romanticism and trivialities from AI: What remains is professionally known as 'Machine Learning'. I consider even that a misnomer. But for lack of a better term, I'll stick with it.**
 
 **Q:** OK, we actually talk about "Machine Learning". Proceed.<br>
-**A: Without getting too technical, Machine Learning is the symbiosis of algorithm, data and computational power, in order to discover structure in data and using it for decisions. The actual structure need never be revealed to or even understood by a human. It is sufficient that an algorithm can use it to perform decisions.**
+**A: Without getting too technical, Machine Learning is the symbiosis of algorithm, data and computational power, in order to discover structure in data and using it for decisions. That structure need never be revealed to or even understood by a human. It is sufficient that an algorithm can use it to perform decisions.**
 
 **Q:** Sounds like a reasonable top level definition. What next?<br>
-**A: Even though that structure appears hidden and somewhat intangible to humans, it is there and it is vital for making decisions. That structure is a form of filtered information originating from the training data. When it is used to make decisions, it can not create new structure. It only applies structure obtained from the training data. Although that sounds restrictive, one can accomplish quite marvelous things with it. But it is a limiting condition. I've not seen anything, called AI, ever working outside these boundaries.**
+**A: That structure is a form of filtered information originating from the training data. When it is used to make decisions, it can not create new structure. It only applies structure obtained from the training data. Although that sounds restrictive, one can accomplish quite marvelous things with it. But it is a limiting condition. I've not seen anything, called AI, ever working outside these boundaries.**
 
 **Q:** One objection: How about [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network)? It seems to create new data out of nothing. That data looks like information no one has seen before. Is that not also new structure? <br>
 **A: You seem to refer to the ability of art-creation by Generative Adversarial Networks. It creates indeed new data but not new structure. It learned to model the space of potential art and to maximize distance to actual (human created) art. That is the intrinsic structure used by the system. The rest is simply mapping a random vector into an arbitrary point that space of maximal distance. So, generating an artificial piece of art is simply mapping a random vector. No new structure is created here!**
 
-**Q:** Well, putting it like that seems to strip some magic from of the GAN. But is it not still quite intriguing what these networks can do?<br>
-**A: Yes, it is a brilliant concept. And, in a very specific field, able to produce quite impressive results. Nevertheless, the GAN is a specialized machinery and no a pathway to general intelligence.**
+**Q:** Well, putting it like that seems to take some magic out of the GAN. But is it not still quite intriguing what these networks can do?<br>
+**A: Yes, it is a brilliant concept. In a very specific field it is able to produce quite impressive results. Nevertheless, the GAN is a specialized machinery and no a pathway to general intelligence.**
 
 **Q:** Another objection: A [LLM](https://en.wikipedia.org/wiki/Large_language_model) can create code. So, code and data does not seem to have a distinct boundary. Since the LLM itself is code, could it not teach itself to better itself and thus become a runaway intelligence?<br>
 **A: No, it can't! The LLM is very good in doing associations. LLMs can extract meaning of presented data and output associated data, which falls into a specific range of human-expectation. Hence, these machines exhibit human-like behavior. However, any output is driven by structure, which already was part of the training data. Thus, it is unable to give you a solution to - say - the Collaz Conjecture, the Rieman Hypothesis or the P versus NP problem unless unless a true intelligence has solved and published it beforehand. In the same way it can't better itself unless a true intelligence has already published a better LLM.**
@@ -235,8 +235,8 @@ Enjoy!
 **Q:** But is the the human brain not just such a machine? Thus disproving your statement? <br>
 **A: I wouldn't claim this for any individual. Humankind as a whole appears to exhibit traits of it to a limited degree. We don't see an intelligence explosion among humans because each new human has to learn everything from scratch (more or less).**
 
-**Q:** So we all can rest in peace? <br>
-**A: Your dictum belongs at a funeral! I'd rather say: "We can relax a bit!". We have enough time to soberly observe and objectively think it out. There is no need for fear or panic.**
+**Q:** So we can all rest in peace? <br>
+**A: Your dictum reminds me of a funeral! I'd rather say: "We can relax a bit!". There is time to soberly observe and objectively think it out. There is no need for fear or panic.**
 
 
 
