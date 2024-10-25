@@ -17,7 +17,7 @@ Enjoy!
 **A: Everything is physics. Your question is pointless.**
 
 **Q:** Why do you love software development so much? <br>
-**A: I love to be in control. But only machines, cats and squirrels obey me.**
+**A: I love to be in control. But only machines, cats and squirrels obey.**
 
 
 
