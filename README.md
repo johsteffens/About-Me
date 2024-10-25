@@ -120,7 +120,7 @@ Enjoy!
 **A: Well, kind of. Sorry.**
 
 **Q:** Should innovation not be protected? <br>
-**A: It should. There are legitimate inventors as well as benevolent investors (or employers) both are entitled to benefit from their effort/investment. But there are also thieves in the world. The two former need protection from the latter. That is desirable as well as justified. This was the original spirit for granting patents in the first place.**
+**A: It should. There are legitimate inventors as well as benevolent investors (or employers). These are entitled to benefit from their effort and/or investment. But there are also thieves in the world. The former need protection from the latter. This was the original spirit for granting patents in the first place.**
 
 **Q:** What then went wrong? <br>
 **A: Some misuse cannot be sufficiently prevented: Such as patenting the 'obvious', unduly broad claims and ignoring prior art (intentionally or unintentionally). I'd say we don't even have a good understanding what 'obvious' truly means.**
