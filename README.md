@@ -217,14 +217,14 @@ Enjoy!
 
 ## Perpetual Generative Intelligence
 
-**Q:** Isn't AI also part of Biophysics? <br>
-**A: The field of Neural Networks is part of neuroscience which is part of biophysics. The term AI is a bit warped these days.**
+**Q:** Isn't AI also part of biophysics? <br>
+**A: The field of neural networks is part of neuroscience which is part of biophysics. The term AI is a bit warped these days.**
 
 **Q:** Does that mean artificial neural networks were originally developed by physicists? <br>
 **A: By psychologists, mathematicians and computer scientists (Rosenblatt, Werbos, Rummelhard, Hinton, Williams, Malsburg, ...) who worked widely interdisciplinary. Of these, only professor v.d. Malsburg is a physicist.**
 
 **Q:** Why is it called *Biophysics* then? <br>
-**A: Biophysics is rather an umbrella term for interdisciplinary science around many areas in biology accessible using physical principles. Did I mention that *everything is ...***
+**A: Biophysics is rather an umbrella term for interdisciplinary science around many areas in biology accessible using physical principles. Did I mention that *everything is Physics*?**
 
 **Q:** I vaguely recall you mentioning something of the kind. So, what is going to happen, oh omniscient physicist: Will we one day eventually all be consumed by intelligent machines? Will AI teach us how to become better humans? Or will AI come to believe that it already is the better human?<br>
 **A: Are you mocking me? If AI ever accomplishes anything useful, it will teach you manners!**
