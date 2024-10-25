@@ -239,7 +239,7 @@ Enjoy!
 **A: Your dictum reminds me of a funeral. I'd rather say: "We can relax a bit!". There is time to soberly observe and objectively think it out. There is no need for fear or panic.**
 
 
-
+_____________________________
 
 
 &copy; Johannes B. Steffens
