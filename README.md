@@ -184,7 +184,7 @@ Enjoy!
 **A: Let first strip science fiction, romanticism and trivialities from AI: What remains is professionally known as 'Machine Learning'. I consider even that a misnomer. But for lack of a better term, I'll stick with it.**
 
 **Q:** OK, we actually talk about "Machine Learning". Proceed.<br>
-**A: Without getting too technical, Machine Learning is the symbiosis of algorithm, data and computational power, in order to discover structure in data and using it for decisions. That structure need never be revealed to or even understood by a human. It is sufficient that an algorithm can use it to perform decisions.**
+**A: Without becoming too technical, Machine Learning is the symbiosis of algorithm, data and computational power, in order to discover structure in data and using it for decisions. That structure need never be revealed to or even understood by a human. It is sufficient that an algorithm can use it to perform decisions.**
 
 **Q:** Sounds like a reasonable top level definition. What next?<br>
 **A: That structure is a form of filtered information originating from the training data. When it is used to make decisions, it can not create new structure. It only applies structure obtained from the training data. Although that sounds restrictive, one can accomplish quite marvelous things with it. But it is a limiting condition. I've not seen anything, called AI, ever working outside these boundaries.**
