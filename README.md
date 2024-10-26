@@ -138,7 +138,7 @@ Enjoy!
 **A: Publish everything you develop under your name; but don't patent it. If you want to do extra good, issue a permissive license with it. By publishing, you turn your invention into prior art. You have a defense gainst those, who claim your idears afterwards as their own. No one should be able to patent your invention without your permission. (At least not in jurisdictions that deserve my respect.) At the same time you leave room to breathe to those, who value your approach and want to adapt, integrate or improve on it.**
 
 **Q:** Why might that not work out for everyone? <br>
-**A: Hard work deserves remuneration. Many inventors need guarantees that they can turn teir efforts into profit. Publishing without patenting is rather a leap of faith. You do something good and hope that you'll be rewarded somehow but also accept that it might never happen. At least not in the way you expect, deserve or need. Many cannot afford living up to this principle, although they might agree that it is a valiant one.**
+**A: Hard work deserves remuneration. Many inventors need guarantees that they can turn their efforts into profit. Publishing without patenting is rather a leap of faith. You do something good and hope that you'll be rewarded somehow but also accept that it might never happen. At least not in the way you expect, deserve or need. Many cannot afford living up to this principle, although they might agree that it is a valiant one.**
 
 **Q:** Some countries allow software patents. Should they better abolish it? <br>
 **A: No. There are legitimate claims depending on the existing systems remaining in place. The system needs a change, but it must be a gradual one.**
