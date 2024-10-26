@@ -169,7 +169,7 @@ Enjoy!
 **A: The AI-Hype happened.**
 
 **Q:** OK, some experts agree, that today's talk around AI is indeed rather a hype. But why should that inhibit you? <br>
-**A: Expectations are inflated. I couldn't possible meet them.**
+**A: Expectations are inflated. I couldn't possibly meet them.**
 
 **Q:** Since when do you care what others expect? And why should any hype affect your motivation? <br>
 **A: I thought I'd be solely self-motivated and never care what others think. In truth, I probably care a lot. I'm motivated building something, which others might find helpful. My work on neural networks might simply appear boring at the moment.**
