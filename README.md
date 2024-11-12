@@ -51,7 +51,7 @@ Enjoy!
 **A: Xoila is a tasty Nepalese dish made of meat with chilly, garlic and ginger. That describes it perfectly!** 
 
 **Q:** Interesting. But don't you feel other languages carry more suitable names? <br>
-**A: Well, a [popular language](https://en.wikipedia.org/wiki/Python_(programming_language)) is named after a predator that squeezes its prey to death, then swallows it whole. I'm undecided which use case is implied here. Don't get me wrong: I like that language but it doesn't give me nightmares ... (yet).** 
+**A: Well, a [popular language](https://en.wikipedia.org/wiki/Python_(programming_language)) is named after a predator that squeezes its prey to death, then swallows it whole. I'm undecided which use case is implied here.** 
 
 **Q:** Perhaps the name need not describe the purpose after all?<br>
 **A: Perhaps.** 
@@ -91,7 +91,7 @@ Enjoy!
 **Q:** Looking through your code, it seems you love reinventing the wheel. What is your take on that?<br>
 **A: I invented the wheel!**
 
-**Q:** Well, lets agree that you have an inventive spirit. Can you elaborate?<br>
+**Q:** Well, let's agree that you have an inventive spirit. Can you elaborate?<br>
 **A: I love solving problems or improving existing solutions. I also enjoy tackling already solved problems from a different viewpoint and eventually discover different (occasionally better) methods. I generally do not expect to be the first arriving at any particular solution. Though, that happens occasionally, too.**
 
 **Q:** Where does that inclination come from?<br>
