@@ -67,7 +67,7 @@ Enjoy!
 **A: It is an abbreviation for the second name of my beloved daughter.** 
 
 **Q:** Any more? <br>
-**A: Beth also means *second*, which I take as personal stance. I don't like to push myself into the foreground.** 
+**A: Beth also means "*second*" (as in "*second place*"), which I take as personal stance. I don't like to push myself into the foreground.** 
 
 **Q:** Oh, it is a posture of humility then! An admission that you are not the best developer in the universe? <br>
 **A: Correct!**  *<sub> ... maybe the second best ... </sub>*
