@@ -1,8 +1,8 @@
 # About-Me
 
-This QA-style README reveals a bit about myself in a playful self-interview. I hope it elicits a smile from my dear reader(s). 
+This QA-style README reveals a bit about myself and my code in a playful self-interview. I hope it elicits a smile from my dear reader(s). 
 
-Some parts are intentionally self-ironic (I know my faults), others are a bit more serious and reflect things I believe or feel strongly about. Nevertheless, I wish to conclude on a positive note.
+Some parts are intentionally self-ironic (I know my faults), others are a bit more serious/explanatory/reflective on things important to me. Nevertheless, I wish to conclude on a positive note.
 
 Enjoy!
 
