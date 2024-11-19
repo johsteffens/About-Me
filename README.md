@@ -51,7 +51,7 @@ Enjoy!
 **A: Xoila is a tasty Nepalese dish made of meat with chilly, garlic and ginger. That describes it perfectly!** 
 
 **Q:** Interesting. But don't you feel other languages carry more suitable names? <br>
-**A: Well, a [popular language](https://en.wikipedia.org/wiki/Python_(programming_language)) is named after a predator that squeezes its prey to death, then swallows it whole. I'm undecided which use case is implied here.** 
+**A: Well, a [popular language](https://en.wikipedia.org/wiki/Python_(programming_language)) is named after a predator that squeezes its prey to death, then swallows it whole. You decide which use case is implied.** 
 
 **Q:** Perhaps the name need not describe the purpose after all?<br>
 **A: Perhaps.** 
