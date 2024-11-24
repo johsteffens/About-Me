@@ -149,7 +149,7 @@ Enjoy!
 **Q:** From where do you think might a better solution arise. <br>
 **A: The free software movement has brought up many excellent ideas. The missing step is finding a grand unified theory combining freedom and protection.**
 
-**Q:** So, you associate the effort with the quest for the [GUT](https://en.wikipedia.org/wiki/Grand_Unified_Theory) in physics? <br>
+**Q:** So, you associate it with the quest for [GUT](https://en.wikipedia.org/wiki/Grand_Unified_Theory) in physics? <br>
 **A: Yes. Btw.: *Everything is physics!***
 
 **Q:** Is it also equally difficult? <br>
