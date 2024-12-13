@@ -51,12 +51,7 @@ Enjoy!
 **A: Xoila is a tasty Nepalese dish made of meat with chilly, garlic and ginger. That describes it perfectly!** 
 
 **Q:** Interesting. But don't you feel other languages carry more suitable names? <br>
-**A: Well, a [popular language](https://en.wikipedia.org/wiki/Python_(programming_language)) is named after a predator that squeezes its prey to death, then swallows it whole. You decide which use case is implied.** 
-
-**Q:** Perhaps the name need not describe the purpose after all?<br>
-**A: Perhaps.** 
-
-
+**A: Well, a [popular language](https://en.wikipedia.org/wiki/Python_(programming_language)) is named after a predator that squeezes its prey to death, then swallows it whole... You decide, which use case might be implied.** 
 
 ## Beth
 
@@ -92,26 +87,26 @@ Enjoy!
 **A: I invented the wheel!**
 
 **Q:** Well, let's agree that you have an inventive spirit. Can you elaborate?<br>
-**A: I love solving problems or improving existing solutions. I also enjoy tackling already solved problems from a different viewpoint and eventually discover different (occasionally better) methods. I generally do not expect to be the first arriving at any particular solution. Though, that happens occasionally, too.**
+**A: I love solving problems or improving existing solutions. I enjoy tackling already solved problems from a different viewpoint. In the process I learn a lot and often find better methods of approach. I do not expect to be the first arriving at any particular solution. Though, that happens occasionally, too.**
 
 **Q:** Where does that inclination come from?<br>
 **A: It could be considered a learning disorder.**
 
 **Q:** A disorder? Please elaborate.<br>
-**A: I've difficulty learning and understanding simply by memorizing things. Instead I learn by reinventing/rediscovering and eventually comparing my result to the generally accepted one. That process can be quite slow and tedious. When my result agrees, I get a dopamine rush. When it disagrees, one of two cases apply.**
+**A: I've difficulty learning and understanding simply by memorizing things. Instead I choose the rather tedious path of learning by reinventing/rediscovering and eventually comparing my result to the generally accepted one. When my result agrees, I get a dopamine rush. When it disagrees, one of two cases apply.**
 
 **Q:** Which two cases?<br>
 **A:**
 
 1. **I am mistaken.**
-2. **Everyone else is mistaken!**   <sub> ... and I might be due for the next Nobel Price.</sub> 
+2. **Everyone else is mistaken!**   *<sub>... and I might be due for the next Nobel Price.</sub>*
 
 
 
 ## About Software Patents
 
 **Q:** What is your position on software patents? <br>
-**A: It carries signs of a bad religion.**
+**A: It carries signs of a cult.**
 
 **Q:** That is an unexpected association. Please explain. <br>
 **A: Many software patents obfuscate with pointless jargon. It keeps innocent developers in constant fear to infringe on things, which they themselves would rather consider trivial and obvious.**
