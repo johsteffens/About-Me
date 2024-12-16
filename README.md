@@ -111,6 +111,9 @@ Enjoy!
 **Q:** That is an unexpected association. Please explain. <br>
 **A: Software patents sometimes employ a jargon that obfuscates rather than illuminates. This can produce a false impression about the breadth or legitimacy of claims.**
 
+**Q:** Can you be a bit more specific? <br>
+**A: Software patents often originate from research that was also published though a scientific paper. If you compare the text in the paper to the related patent, it can be difficult to realize they both describe the same innovation.**
+
 **Q:** Should innovation not be protected? <br>
 **A: It should. There are legitimate inventors as well as benevolent investors (or employers). These are entitled to benefit from their effort and/or investment. This was the original spirit for granting patents in the first place.**
 
