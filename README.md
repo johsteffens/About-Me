@@ -109,13 +109,10 @@ Enjoy!
 **A: It carries signs of a cult.**
 
 **Q:** That is an unexpected association. Please explain. <br>
-**A: Many software patents obfuscate with pointless jargon. It keeps innocent developers in constant fear to infringe on things, which they themselves would rather consider trivial and obvious.**
-
-**Q:** Oh dear, I sense irony slipping into ranting. Did I touch a soar nerve? <br>
-**A: Well, kind of. Sorry.**
+**A: Software patents sometimes employ a jargon that obfuscates rather than illuminates. This can produce a false impression about the breadth or legitimacy of claims.**
 
 **Q:** Should innovation not be protected? <br>
-**A: It should. There are legitimate inventors as well as benevolent investors (or employers). These are entitled to benefit from their effort and/or investment. But there are also thieves in the world. The former need protection from the latter. This was the original spirit for granting patents in the first place.**
+**A: It should. There are legitimate inventors as well as benevolent investors (or employers). These are entitled to benefit from their effort and/or investment. This was the original spirit for granting patents in the first place.**
 
 **Q:** What then went wrong? <br>
 **A: Some misuse cannot be sufficiently prevented: Such as patenting the 'obvious', unduly broad claims and ignoring prior art (intentionally or unintentionally). I'd say we don't even have a good understanding what 'obvious' truly means.**
