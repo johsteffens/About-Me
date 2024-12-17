@@ -62,10 +62,10 @@ Enjoy!
 **A: It is an abbreviation for the second name of my beloved daughter.** 
 
 **Q:** Any more? <br>
-**A: Beth also means "*second*" (as in "*second place*"), which I take as personal stance. I don't like to push myself into the foreground.** 
+**A: Beth also means "*second place*", which I take as personal stance. I don't like to push myself into the foreground.** 
 
 **Q:** Oh, it is a posture of humility then! An admission that you are not the best developer in the universe? <br>
-**A: Correct!**  *<sub> ... maybe the second best ... </sub>*
+**A: Correct!**  *<sub> ... maybe just the second best ... </sub>*
 
 **Q:** It seems you dislike third party code. How come?<br>
 **A: I love third party code, except (by definition) one cannot own it. One must acquire a license; I'm allergic to that.**
