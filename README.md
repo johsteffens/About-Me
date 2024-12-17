@@ -139,7 +139,7 @@ Enjoy!
 **A: No. There are legitimate claims depending on the existing patent system remaining in place. The system needs a change, but that change can only be a gradual process.**
 
 **Q:** Some countries withstand industrial pressure to allow software patents. Should they relent? <br>
-**A: Emphatically no! Pressure is healthy when it is channeled into efforts for better solutions. I maintain hope that arrive at a good one, eventually.**
+**A: Emphatically no! Pressure is healthy when it is channeled into efforts for better solutions. I maintain hope that we arrive at a good one, eventually.**
 
 **Q:** From where do you think might a better solution arise. <br>
 **A: The free software movement has brought up many excellent ideas. The missing step is finding a grand unified theory combining freedom and protection.**
