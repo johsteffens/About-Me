@@ -202,7 +202,7 @@ Enjoy!
 **Q:** Physics again? <br>
 **A: Did I mention that everything is ...**
 
-**Q:** ... Yes! So, your point is that we need be afraid and expect the emergence of a malicious runaway artificial intelligence?<br>
+**Q:** ... Yes! So, your point is that we need not be fearful and expect the emergence of a malicious runaway artificial intelligence?<br>
 **A: Correct.**
 
 **Q:** But how about being cautious and possibly applying regulatory efforts on AI? Should we rather let up? <br>
