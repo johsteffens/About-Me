@@ -106,15 +106,15 @@ Enjoy!
 ## About Software Patents
 
 **Q:** What is your position on software patents? <br>
-**A: It carries signs of a cult.**
+**A: Using the patent system on software feels inappropriate.**
 
-**Q:** That is an unexpected association. Please explain. <br>
+**Q:** Please explain. <br>
 **A: Software patents sometimes employ a jargon that obfuscates rather than illuminates. This can produce a false impression about the breadth or legitimacy of claims.**
 
-**Q:** Can you be a bit more specific? <br>
-**A: Software patents often originate from research that was also published though a scientific paper. If you compare the text in the paper to the related patent, it can be difficult to realize they both describe the same innovation.**
+**Q:** Why might this be more problematic for software than other types of inventions? <br>
+**A: It could be problematic in general. But software inventions often originate from research that was also published though a scientific paper. If you compare the text in the paper to the related patent, it can be difficult to realize they both describe the same innovation.**
 
-**Q:** Should innovation not be protected? <br>
+**Q:** Should software innovation not be protected? <br>
 **A: It should. There are legitimate inventors as well as benevolent investors (or employers). These are entitled to benefit from their effort and/or investment. This was the original spirit for granting patents in the first place.**
 
 **Q:** What then went wrong? <br>
@@ -126,11 +126,11 @@ Enjoy!
 **Q:** Does this not apply to all possible solutions? <br>
 **A: No. Many solutions contain some level of design which leaves room for developing alternatives. A good patent should only claim the one original design. It should not be so broad that it potentially covers all possible future alternatives, which haven't been invented yet.**
 
-**Q:** I can see that your tight definition might render some of today's patents invalid. What is your better solution to patenting? <br>
+**Q:** I can see that your tight definition might render some of today's patents invalid. What is your better solution? <br>
 **A: I have none (yet). At best I have a preliminary remedy but it might not work for everyone.**
 
 **Q:** What is your remedy? <br>
-**A: Publish everything you develop with a timestamp under your name; but don't patent it. If you want to do extra good, issue a permissive license with your code. By publishing, you turn your invention into prior art. You have a defense gainst those, who claim your idears afterwards as their own. At the same time you leave room to breathe to those, who value your approach and want to adapt, integrate or improve on it.**
+**A: Given some contract does not stand in the way: Strive to publish with your name and a timestamp everything you developed and/or have retained/obtained the right of ownership. If you want to do extra good, issue a permissive license with your code. By publishing, you turn possible inventions into prior art. You have a defense gainst those, who claim your idears afterwards as their own. At the same time you leave room to breathe to those, who value your approach and want to adapt, integrate or improve on it.**
 
 **Q:** Why might that not work out for everyone? <br>
 **A: Hard work deserves remuneration. Many inventors need guarantees that they can turn their efforts into profit. Publishing without patenting is a leap of faith. You do something good for others but have less control over when (if ever) and how a reward might occur.**
@@ -155,7 +155,7 @@ Enjoy!
 ## About AI
 
 **Q:** What is a [Holor Virtual Machine](https://github.com/johsteffens/beth/blob/master/lib/bhvm/README.md)? <br>
-**A: A virtual platform I ivented. It can run holor (e.g. scalar, vector, matrix, ...)  operations. Especially useful for artificial neural networks.**
+**A: A virtual platform I ivented. It can run holor (e.g. scalar, vector, matrix, ...) operations. Especially useful for artificial neural networks.**
 
 **Q:** What means [bhpt](https://github.com/johsteffens/beth/tree/master/lib/bhpt)? <br>
 **A: A (yet) incomplete framework to design and train neural networks.**
