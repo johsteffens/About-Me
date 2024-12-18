@@ -106,7 +106,7 @@ Enjoy!
 ## About Software Patents
 
 **Q:** What is your position on software patents? <br>
-**A: Using the patent system on software feels inappropriate.**
+**A: The use of the patent system on software feels inappropriate.**
 
 **Q:** Please explain. <br>
 **A: Software patents sometimes employ a jargon that obfuscates rather than illuminates. This can produce a false impression about the breadth or legitimacy of claims.**
