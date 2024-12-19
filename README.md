@@ -95,7 +95,7 @@ I do not expect to be the first arriving at any particular solution. Though, tha
 
 **Q:** A disorder? Please elaborate.<br>
 **A: I've difficulty learning and understanding simply by memorizing things. Instead I choose the rather tedious path of learning by studying the underlying problem and reinventing/rediscovering a solution myself.
-Only afterwards I might try to find out if a generally accepted solution already exists. When my own result matches, I get a dopamine rush. When it differs, one of two cases apply.**
+Only afterwards I might try to find out if a generally accepted solution already existed. When my own result matches, I get a dopamine rush. When it differs, one of two cases apply.**
 
 **Q:** Which two cases?<br>
 **A:**
