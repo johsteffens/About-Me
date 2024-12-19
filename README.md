@@ -93,7 +93,7 @@ Enjoy!
 **A: It could be considered a learning disorder.**
 
 **Q:** A disorder? Please elaborate.<br>
-**A: I've difficulty learning and understanding simply by memorizing things. Instead I choose the rather tedious path of learning by reinventing/rediscovering and eventually comparing my result to the generally accepted one. When my result agrees, I get a dopamine rush. When it disagrees, one of two cases apply.**
+**A: I've difficulty learning and understanding simply by memorizing things. Instead I choose the rather tedious path of learning by reinventing/rediscovering and only afterwards trying to find out if a generally accepted solution already exists and what it might be. When my result matches, I get a dopamine rush. When it differs, one of two cases apply.**
 
 **Q:** Which two cases?<br>
 **A:**
