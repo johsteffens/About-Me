@@ -87,13 +87,15 @@ Enjoy!
 **A: I invented the wheel!**
 
 **Q:** Well, let's agree that you have an inventive spirit. Can you elaborate?<br>
-**A: I love solving problems or improving existing solutions. I enjoy tackling already solved problems from a different viewpoint. In the process I learn a lot and often find better methods of approach. I do not expect to be the first arriving at any particular solution. Though, that happens occasionally, too.**
+**A: I love solving problems or improving existing solutions. I enjoy tackling already solved problems from a different viewpoint. In the process I learn a lot and often find better methods of approach. 
+I do not expect to be the first arriving at any particular solution. Though, that happens occasionally, too.**
 
 **Q:** Where does that inclination come from?<br>
 **A: It could be considered a learning disorder.**
 
 **Q:** A disorder? Please elaborate.<br>
-**A: I've difficulty learning and understanding simply by memorizing things. Instead I choose the rather tedious path of learning by reinventing/rediscovering and only afterwards trying to find out if a generally accepted solution already exists and what it might be. When my result matches, I get a dopamine rush. When it differs, one of two cases apply.**
+**A: I've difficulty learning and understanding simply by memorizing things. Instead I choose the rather tedious path of learning by studying the underlying problem and reinventing/rediscovering a solution myself.
+Only afterwards I might try to find out if a generally accepted solution already exists. When my own result matches, I get a dopamine rush. When it differs, one of two cases apply.**
 
 **Q:** Which two cases?<br>
 **A:**
