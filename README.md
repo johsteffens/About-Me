@@ -68,7 +68,7 @@ Enjoy!
 **A: Correct!**  *<sub> ... maybe just the second best ... </sub>*
 
 **Q:** It seems you dislike third party code. How come?<br>
-**A: I respect third party code, except (by definition) one cannot own it. One must acquire a license; I'm allergic to that.**
+**A: I respect third party code. But (by definition) one cannot own it but must acquire a license; I'm allergic to that.**
 
 **Q:** But you issue a license for your own code?<br>
 **A: I'm immune to licenses issued by me.**
