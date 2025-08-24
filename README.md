@@ -30,7 +30,7 @@ Enjoy!
 **A: I see Mathematics as a misunderstood force of nature.**
 
 **Q:** Would you agree that the essence of [functional programming](https://en.wikipedia.org/wiki/Functional_programming) is doing [recursion](https://en.wikipedia.org/wiki/Functional_programming#Recursion)?<br>
-**A: No. The essence is stopping recursion.**
+**A: No. Its essence is stopping recursion.**
 
 **Q:** Does the [Ackermann Function](https://en.wikipedia.org/wiki/Ackermann_function) fascinate you?<br>
 **A: I'll be fascinated seeing A(4,3) finish.** 
