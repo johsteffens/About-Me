@@ -226,7 +226,7 @@ Only afterwards I might try to find out if a generally accepted solution already
 **Q:** I vaguely recall you mentioning something of the kind. So, what is going to happen, oh omniscient physicist: Will we one day eventually all be consumed by intelligent machines? Will AI teach us how to become better humans? Or will AI come to believe that it already is the better human?<br>
 **A: Are you mocking me? If AI ever accomplishes anything useful, it will teach you manners!**
 
-**Q:** It seems we are coming back to the one question: Can you formulate what part, piece or concept is missing? <br>
+**Q:** It seems we are coming back to the one question: Can you formulate which part, piece or concept is missing? <br>
 **A: From making the worst nightmares come true? I'd call the missing part a "Perpetual Generative Intelligence". A system that can learn from its own output. It seems impossible for all the reasons stated already.**
 
 **Q:** But is the the human brain not just such a machine? Thus disproving your statement? <br>
