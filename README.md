@@ -157,7 +157,7 @@ Only afterwards I might try to find out if a generally accepted solution already
 ## About AI
 
 **Q:** What is a [Holor Virtual Machine](https://github.com/johsteffens/beth/blob/master/lib/bhvm/README.md)? <br>
-**A: A virtual platform I ivented. It can run holor (e.g. scalar, vector, matrix, ...) operations. Especially useful for artificial neural networks.**
+**A: A virtual platform I invented. It can run holor (e.g. scalar, vector, matrix, ...) operations. Especially useful for artificial neural networks.**
 
 **Q:** What means [bhpt](https://github.com/johsteffens/beth/tree/master/lib/bhpt)? <br>
 **A: A (yet) incomplete framework to design and train neural networks.**
