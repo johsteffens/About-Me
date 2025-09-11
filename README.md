@@ -128,7 +128,7 @@ Only afterwards I might try to find out if a generally accepted solution already
 **Q:** Does this not apply to all possible solutions? <br>
 **A: No. Many solutions contain some level of design which leaves room for developing alternatives. A good patent should only claim the one original design. It should not be so broad that it potentially covers all possible future alternatives, which haven't been invented yet.**
 
-**Q:** I can see that your tight definition might render some of today's patents invalid. What is your better solution? <br>
+**Q:** I can see that your tight definition might render some of today's patents invalid. What would be your better approach? <br>
 **A: I have none (yet). At best I have a preliminary remedy but it might not work for everyone.**
 
 **Q:** What is your remedy? <br>
