@@ -126,7 +126,7 @@ Only afterwards I might try to find out if a generally accepted solution already
 **A: A specific solution one inevitably arrives at when one put his/her mind to solving a particular problem. Regardless how difficult that solution might be to find.**
 
 **Q:** Does this not apply to all possible solutions? <br>
-**A: No. Many solutions contain some level of design which leaves room for developing alternatives. A good patent should only claim the one original design. It should not be so broad that it potentially covers all possible future alternatives, which haven't been invented yet.**
+**A: No. Many solutions contain some level of design, which leaves room for developing alternatives. A good patent should only claim the one original design. It should not be so broad that it potentially covers all possible future alternatives, which haven't been invented yet.**
 
 **Q:** I can see that your tight definition might render some of today's patents invalid. What would be your better approach? <br>
 **A: I have none (yet). At best I have a preliminary remedy but it might not work for everyone.**
