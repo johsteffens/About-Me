@@ -65,7 +65,7 @@ Enjoy!
 **A: Beth also means "*second place*", which I take as personal stance. I don't like to push myself into the foreground.** 
 
 **Q:** Oh, it is a posture of humility then! An admission that you are not the best developer in the universe? <br>
-**A: Correct!**  *<sub> ... maybe just the second best ... </sub>*
+**A: Correct!**  *<sub> ... just the second best ... </sub>*
 
 **Q:** It seems you dislike third party code. How come?<br>
 **A: I respect third party code. But (by definition) one cannot own it but must acquire a license; I'm allergic to that.**
