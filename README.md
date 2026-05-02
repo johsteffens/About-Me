@@ -101,7 +101,7 @@ Only afterwards I might try to find out if a generally accepted solution already
 **A:**
 
 1. **I am mistaken.**
-2. **Everyone else is mistaken!**   *<sub>... and I might be due for the next Nobel Price.</sub>*
+2. **Everyone else is mistaken!**   *<sub>... and I am due for the next Nobel Price ...</sub>*
 
 
 
