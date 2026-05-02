@@ -24,7 +24,7 @@ Enjoy!
 ## Programming & Languages
 
 **Q:** What is the worst language you were ever compelled to learn?<br>
-**A: I can't decide between Spanish, Latin and SQL. (I accomplished neither)** 
+**A: I can't decide between Latin and SQL. (I accomplished neither)** 
 
 **Q:** Do you understand Mathematics as a language of nature?<br>
 **A: I see Mathematics as a misunderstood force of nature.**
