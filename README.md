@@ -138,7 +138,7 @@ Only afterwards I might try to find out if a generally accepted solution already
 **A: Hard work deserves remuneration. Many inventors need guarantees that they can turn their efforts into profit. Publishing without patenting is a leap of faith. You do something good for others but have less control over when (if ever) and how a reward might occur.**
 
 **Q:** Some countries allow software patents. Should they better abolish it? <br>
-**A: No. There are legitimate claims, which rely upon the existing patent system remaining in place. Although the system needs a change, it can only be a gradual process.**
+**A: There are legitimate claims, which rely upon the existing patent system remaining in place. Although the system needs a change, it can only be a gradual process.**
 
 **Q:** Some countries withstand industrial pressure to allow software patents. Should they relent? <br>
 **A: Emphatically no! Those countrys should stay firm in rejecting software patents. Although there might be pressure to relent, withstanding it can be healthy when it is channeled into new efforts for better allround solutions. I maintain hope that we arrive at a good one, eventually.**
