@@ -132,16 +132,16 @@ Only afterwards I might try to find out if a generally accepted solution already
 **A: I have none (yet). At best I have a preliminary remedy but it might not work for everyone.**
 
 **Q:** What is your remedy? <br>
-**A: Given some contract does not stand in the way: Strive to publish with your name and a timestamp everything you developed and/or have retained/obtained the right of ownership. If you want to do extra good, issue a permissive license with your code. By publishing, you turn possible inventions into prior art. You have a defense gainst those, who claim your idears afterwards as their own. At the same time you leave room to breathe to those, who value your approach and want to adapt, integrate or improve on it.**
+**A: Given some contract does not stand in the way: Strive to publish with your name and a timestamp everything you developed and/or have retained/obtained the right of ownership. If you want to do extra good, issue a permissive license with your code. By publishing, your solution becomes "Prior Art". You have a defense gainst those, who claim your idears afterwards as their own. At the same time you leave room to breathe to those, who value your approach and want to adapt, integrate or improve on it.**
 
 **Q:** Why might that not work out for everyone? <br>
 **A: Hard work deserves remuneration. Many inventors need guarantees that they can turn their efforts into profit. Publishing without patenting is a leap of faith. You do something good for others but have less control over when (if ever) and how a reward might occur.**
 
 **Q:** Some countries allow software patents. Should they better abolish it? <br>
-**A: No. There are legitimate claims depending on the existing patent system remaining in place. The system needs a change, but that change can only be a gradual process.**
+**A: No. There are legitimate claims, which rely upon the existing patent system remaining in place. Although the system needs a change, it can only be a gradual process.**
 
 **Q:** Some countries withstand industrial pressure to allow software patents. Should they relent? <br>
-**A: Emphatically no! Pressure is healthy when it is channeled into efforts for better solutions. I maintain hope that we arrive at a good one, eventually.**
+**A: Emphatically no! Those countrys should stay firm in rejecting software patents. Although there might be pressure to relent, withstanding it can be healthy when it is channeled into new efforts for better allround solutions. I maintain hope that we arrive at a good one, eventually.**
 
 **Q:** From where do you think might a better solution arise. <br>
 **A: The free software movement has brought up many excellent ideas. The missing step is finding a grand unified theory combining freedom and protection.**
