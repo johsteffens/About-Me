@@ -143,10 +143,10 @@ Only afterwards I might try to find out if a generally accepted solution already
 **Q:** Some countries withstand industrial pressure to allow software patents. Should they relent? <br>
 **A: Emphatically no! Those countrys should stay firm in rejecting software patents. Although there might be pressure to relent, withstanding it can be healthy when it is channeled into new efforts for better allround solutions. I maintain hope that we arrive at a good one, eventually.**
 
-**Q:** From where do you think might a better solution arise. <br>
+**Q:** From where might a better solution arise? <br>
 **A: The free software movement has brought up many excellent ideas. The missing step is finding a grand unified theory combining freedom and protection.**
 
-**Q:** So, you associate it with the quest for [GUT](https://en.wikipedia.org/wiki/Grand_Unified_Theory) in physics? <br>
+**Q:** You associate it with the quest for [GUT](https://en.wikipedia.org/wiki/Grand_Unified_Theory) in physics? <br>
 **A: Yes. Btw.: *Everything is physics!***
 
 **Q:** Is it also equally difficult? <br>
