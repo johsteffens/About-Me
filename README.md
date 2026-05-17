@@ -87,7 +87,7 @@ Enjoy!
 **A: I invented the wheel!**
 
 **Q:** Well, let's agree that you have an inventive spirit. Can you elaborate?<br>
-**A: I love solving problems or improving existing solutions. I enjoy tackling already solved problems from a different viewpoint. In the process I learn a lot and often find better methods of approach. 
+**A: I love solving problems or improving existing solutions by doing my own research and development. I enjoy approaching already solved problems from a different viewpoint. In the process I learn a lot and often discover better methods. 
 I do not expect to be the first arriving at any particular solution. Though, that happens occasionally, too.**
 
 **Q:** Where does that inclination come from?<br>
@@ -103,7 +103,8 @@ Only afterwards I might try to find out if a generally accepted solution already
 1. **I am mistaken.**
 2. **Everyone else is mistaken!**   *<sub>... and I am due for the next Nobel Price ...</sub>*
 
-
+**Q:** Do you see yourself more as inventor or more as reasearcher.
+**A:** **I think one implies the other: Good reserach requires creative thinking outside the box to find solutions to given problems; this inspires inventions. A good invention involves significant reasearch.**
 
 ## About Software Patents
 
