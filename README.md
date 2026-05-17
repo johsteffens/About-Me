@@ -103,7 +103,7 @@ Only afterwards I might try to find out if a generally accepted solution already
 1. **I am mistaken.**
 2. **Everyone else is mistaken!**   *<sub>... and I am due for the next Nobel Price ...</sub>*
 
-**Q:** Do you see yourself more as inventor or more as reasearcher.
+**Q:** Do you see yourself more as inventor or more as reasearcher. <br>
 **A:** **I think one implies the other: Good reserach requires creative thinking outside the box to find solutions to given problems; this inspires inventions. A good invention involves significant reasearch.**
 
 ## About Software Patents
