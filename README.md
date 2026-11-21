@@ -196,7 +196,7 @@ Only afterwards I might try to find out if a generally accepted solution already
 **Q:** Another objection: A [LLM](https://en.wikipedia.org/wiki/Large_language_model) can create code. So, code and data does not seem to have a distinct boundary. Since the LLM itself is code, could it not teach itself to better itself and thus become a runaway intelligence?<br>
 **A: No, it can't! The LLM is very good in doing associations. LLMs can extract meaning of presented data and output associated data, which falls into a specific range of human-expectation. Hence, these machines exhibit human-like behavior. However, any output is driven by structure, which already was part of the training data. Thus, it is unable to give you a solution to - say - the Collatz Conjecture, the Rieman Hypothesis or the P versus NP problem unless unless a true intelligence has solved and published it beforehand. In the same way it can't better itself unless a true intelligence has generate new data from which a better LLM can be trained.**
 
-**Q:** Ha! The Riemann Hypothesis was solved by a recent language model (as of Nov 21 2026). What is you take on that?
+**Q:** Ha! The Riemann Hypothesis was solved by a recent language model (as of Nov 21 2026). What is you take on that? <br>
 **A: Honestly flabbergasted. Even though: Not the language model alone appears to have solved it and it must still be fully verified by a human, which might take some time. It seems nevertheless to be an extraordinary accomplishment.**
 
 **Q:** So, are models reaching AGI-level, or even becoming sentient?
