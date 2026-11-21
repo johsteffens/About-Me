@@ -199,7 +199,7 @@ Only afterwards I might try to find out if a generally accepted solution already
 **Q:** Ha! The Riemann Hypothesis was solved by a recent language model (as of Nov 21 2026). What is you take on that? <br>
 **A: Honestly flabbergasted. Even though: Not the language model alone appears to have solved it and it must still be fully verified by a human, which might take some time. It seems nevertheless to be an extraordinary accomplishment.**
 
-**Q:** So, are models reaching AGI-level, or even becoming sentient?
+**Q:** So, are models reaching AGI-level, or even becoming sentient? <br>
 **A: No. There just appears to be way more learnable structure for LLMs. Resoning is built into language to a greater degree than I thought. New and bigger models are still drawing from that pool. I still believe there is a limit. Only, that limit might be way loftier.**
 
 **Q:** So, what is missing? <br>
